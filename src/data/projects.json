@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Blogging App",
+"description": "Designed and developed a full-stack blog application using React, Node.js, and MySQL featuring authentication with JWT securing login/logout functionality, and content management.",
+    "skills": ["React", "MySQL", "Node Js"],
+    "source": "https://github.com/Suruchicodes/Blog-App",
+    "demo": "https://github.com/Suruchicodes/Blog-App"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Food Recipe App",
+    "description": "Developed a dynamic web application using HTML, CSS, and JavaScript and utilized TheMealDB API to search recipes, display meal details, and offer random meal suggestions.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://suruchicodes.github.io/Food-Recipe-App/",
+    "source": "https://suruchicodes.github.io/Food-Recipe-App/"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "2-Player Fighting Game",
+    "description": "Implemented a 2D 2-player fighting game using HTML, CSS and JavaScript, incorporating gravity and collision detection for realistic gameplay.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://suruchicodes.github.io/Fighting-Game/",
+    "source": "https://github.com/Suruchicodes/Fighting-Game"
   }
 ]

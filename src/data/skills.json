@@ -12,19 +12,43 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node Js",
     "imageSrc": "skills/node.png"
   },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
+
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Express Js",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python1.png",
+    "imageWidth": 300,
+    "imageHeight": 150
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
   }
 ]
