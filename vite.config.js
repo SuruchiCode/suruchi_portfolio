@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/", // Critical for asset paths
+  base: "https://suruchi-portfolio-brown.vercel.app/", // Critical for asset paths
   css: {
     modules: {
       localsConvention: "camelCase",
