@@ -1,7 +1,6 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
   css: {
@@ -9,4 +8,14 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  // Add these for Vercel compatibility:
+  build: {
+    outDir: "dist",
+    emptyOutDir: true,
+  },
+  preview: {
+    port: 4173,
+    strictPort: true,
+  },
+  base: "/", // Critical for asset paths
 });
