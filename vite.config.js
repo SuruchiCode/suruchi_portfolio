@@ -13,9 +13,6 @@ export default defineConfig({
     outDir: "dist",
     emptyOutDir: true,
   },
-  preview: {
-    port: 4173,
-    strictPort: true,
-  },
-  base: "/", // Critical for asset paths
+
+  base: "./", // Critical for asset paths
 });
