@@ -1,23 +1,38 @@
 [
   {
-    "title": "Blogging App",
-"description": "Designed and developed a full-stack blog application using React, Node.js, and MySQL featuring authentication with JWT securing login/logout functionality, and content management.",
-    "skills": ["React", "MySQL", "Node Js"],
-    "source": "https://github.com/Suruchicodes/Blog-App",
-    "demo": "https://github.com/Suruchicodes/Blog-App"
-  },
+    "title": "AI-powered Incident Resolution Assistant",
+    "description": "Developed an AI assistant to automate IT ticket resolution enabling support teams to retrieve similar cases and solutions via a chatbot interface.",
+    "skills": ["Python", "FastAPI", "Streamlit", "Transformers", "Ollama", "ChromaDB"],
+    "source": "https://github.com/SuruchiCode/AI-powered-Incident-Resolution-Assistant/tree/master",
+    "demo": "https://github.com/SuruchiCode/AI-powered-Incident-Resolution-Assistant/blob/master/README.md"
+},
   {
-    "title": "Food Recipe App",
-    "description": "Developed a dynamic web application using HTML, CSS, and JavaScript and utilized TheMealDB API to search recipes, display meal details, and offer random meal suggestions.",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://suruchicodes.github.io/Food-Recipe-App/",
-    "source": "https://suruchicodes.github.io/Food-Recipe-App/"
+          "title":"Leukemia Classification(Research Project)",
+          "description": "Built an ensemble learning model for leukemia classification, using deep learning Models, achieving 89.6% accuracy",
+          "skills": ["Python", "Scikit-learn", "NumPy","SciPy"],
+          "demo": "https://drive.google.com/file/d/1kZ9KfPH9qqF0l5dU7DQ_Ibzdk6whW8oC/view",
+          "source": "https://github.com/Suruchicodes/leukemia_classification/tree/main/Ensemble-Learning"
+
+    },
+  {
+    "title": "FinSmart (Personal Finance Assistant)",
+    "description": "Full-stack web app for managing expenses, planning savings, and receiving insights via a chat assistant",
+    "skills": ["Node.js", "Express.js", "MongoDB", "EJS", "Tailwind CSS", "Nodemailer", "JWT"],
+    "demo": "https://github.com/SuruchiCode/FinSmart-Personal-Finance-Assistant/blob/main/README.md",
+    "source": "https://github.com/SuruchiCode/FinSmart-Personal-Finance-Assistant"
   },
   {
     "title": "2-Player Fighting Game",
-    "description": "Implemented a 2D 2-player fighting game using HTML, CSS and JavaScript, incorporating gravity and collision detection for realistic gameplay.",
+    "description": "Implemented a  2-player fighting game using HTML, CSS and JavaScript, incorporating gravity and collision detection for realistic gameplay with enhanced character movement and attack responsiveness",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://suruchicodes.github.io/Fighting-Game/",
     "source": "https://github.com/Suruchicodes/Fighting-Game"
-  }
+  },
+  {
+  "title": "Food Recipe App",
+  "description": "Built a web app using HTML, CSS, and JavaScript to search recipes, view meal details, and get random meal suggestions using TheMealDB API.",
+  "skills": ["HTML", "CSS", "JavaScript", "API"],
+  "demo": "https://suruchicodes.github.io/Food-Recipe-App/",
+  "source": "https://github.com/Suruchicodes/Food-Recipe-App"
+}
 ]
