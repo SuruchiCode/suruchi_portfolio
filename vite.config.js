@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/", // Changed from absolute URL to root-relative
+  base: "/suruchi_portfolio/", // Changed from absolute URL to root-relative
   css: {
     modules: {
       localsConvention: "camelCase",
